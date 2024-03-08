@@ -1,0 +1,34 @@
+a
+{
+    color: #0eb4b4;
+}
+
+.preco
+{
+    color: rgb(13, 129, 13);
+}
+
+.btn
+{
+    height: 34px;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.btn:hover
+{
+    opacity: 0.8;
+}
+
+.btn-carrinho
+{
+    background-color: rgb(222,222,0);
+}
+
+.btn-buy
+{
+    background-color: rgb(255, 164, 28);
+}
